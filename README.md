@@ -1,7 +1,8 @@
 # Code for KDD-24 paper "Rethinking Order Dispatching in Online Ride-Hailing Platforms"
 
-**Notes**
-Due to data management regulations, we are unable to disclose our company's private datasets. Therefore, we have replicated the GRC on a publicly available dataset of ride-hailing services in Chengdu from November 2016. Due to the lack of some data, such as pre- and post-ride cancellation rates and the probability of driver online/offline status, the GRC we have replicated is a simplified version.
+**Note**
+
+Due to data management regulations, we are unable to disclose our company's private datasets. Therefore, we have replicated the GRC on a publicly available dataset of ride-hailing services in Chengdu from November 2016. Due to the lack of some data, such as pre- and post-ride cancellation rates and the probability of driver online/offline status, the GRC and simulator we replicated is a simplified version.
 
 **Requirements**
 
